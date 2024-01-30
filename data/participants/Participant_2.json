@@ -5,6 +5,7 @@
       "center_x": 0.18,
       "center_y": 0.12,
       "center_Y": 100.0,
+      "Yc": 205,
       "measurements": [
         {
           "x": 0.18000000000000016,
@@ -533,6 +534,7 @@
       "center_x": 0.2,
       "center_y": 0.65,
       "center_Y": 200.0,
+      "Yc": 205,
       "measurements": [
         {
           "x": 0.20000000000000026,
@@ -1061,6 +1063,7 @@
       "center_x": 0.219,
       "center_y": 0.216,
       "center_Y": 8.8,
+      "Yc": 205,
       "measurements": [
         {
           "x": 0.21900000000000006,
@@ -1589,6 +1592,7 @@
       "center_x": 0.248,
       "center_y": 0.362,
       "center_Y": 24.0,
+      "Yc": 205,
       "measurements": [
         {
           "x": 0.2480000000000001,
@@ -2117,6 +2121,7 @@
       "center_x": 0.314,
       "center_y": 0.331,
       "center_Y": 30.0,
+      "Yc": 205,
       "measurements": [
         {
           "x": 0.3140000000000001,
@@ -2645,6 +2650,7 @@
       "center_x": 0.388,
       "center_y": 0.428,
       "center_Y": 69.3,
+      "Yc": 205,
       "measurements": [
         {
           "x": 0.3880000000000001,
@@ -3173,6 +3179,7 @@
       "center_x": 0.484,
       "center_y": 0.342,
       "center_Y": 14.1,
+      "Yc": 205,
       "measurements": [
         {
           "x": 0.4840000000000001,
@@ -3701,6 +3708,7 @@
       "center_x": 0.654,
       "center_y": 0.324,
       "center_Y": 200.0,
+      "Yc": 205,
       "measurements": [
         {
           "x": 0.6540000000000002,

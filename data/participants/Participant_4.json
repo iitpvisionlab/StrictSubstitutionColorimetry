@@ -5,6 +5,7 @@
       "center_x": 0.18,
       "center_y": 0.12,
       "center_Y": 100,
+      "Yc": 548,
       "measurements": [
         {
           "x": 0.18,
@@ -533,6 +534,7 @@
       "center_x": 0.2,
       "center_y": 0.65,
       "center_Y": 200,
+      "Yc": 669,
       "measurements": [
         {
           "x": 0.2,
@@ -1061,6 +1063,7 @@
       "center_x": 0.219,
       "center_y": 0.216,
       "center_Y": 8.8,
+      "Yc": 311,
       "measurements": [
         {
           "x": 0.219,
@@ -1589,6 +1592,7 @@
       "center_x": 0.248,
       "center_y": 0.362,
       "center_Y": 24.0,
+      "Yc": 354,
       "measurements": [
         {
           "x": 0.248,
@@ -2117,6 +2121,7 @@
       "center_x": 0.314,
       "center_y": 0.331,
       "center_Y": 30.0,
+      "Yc": 543,
       "measurements": [
         {
           "x": 0.314,
@@ -2645,6 +2650,7 @@
       "center_x": 0.388,
       "center_y": 0.428,
       "center_Y": 69.3,
+      "Yc": 406,
       "measurements": [
         {
           "x": 0.388,
@@ -3173,6 +3179,7 @@
       "center_x": 0.484,
       "center_y": 0.342,
       "center_Y": 14.1,
+      "Yc": 430,
       "measurements": [
         {
           "x": 0.484,
@@ -3701,6 +3708,7 @@
       "center_x": 0.654,
       "center_y": 0.324,
       "center_Y": 200,
+      "Yc": 725,
       "measurements": [
         {
           "x": 0.654,
