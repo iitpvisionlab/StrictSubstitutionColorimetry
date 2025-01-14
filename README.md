@@ -3,6 +3,8 @@
 This repository is a set of software for visualisation and analysis of data described in a paper: "The first use of the strict substitution colorimetry for collecting
 data on threshold perceptual color differences in humans".
 
+Spectral power distribution of the Red, Green, and Blue channels of the stimulus generator you can find in StimulusGenerator-SPD.csv
+
 ## Benchmarking
 
 To run the benchmarking software, use the following command:
